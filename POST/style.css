@@ -1,0 +1,97 @@
+body {
+	font-family:'Kalinga';
+}
+/*
+div {
+	border: 1px solid #000;
+	width:75%;
+	margin:2% auto;
+	padding:1%;
+} */
+
+body {
+	font-family:'Kalinga';
+	font-family:'Raleway';
+	background-image: url('doodle.jpg');
+}
+
+.mynav {
+	background-color:#000;
+	color:#fff;
+	height:100px;
+}
+
+.white {
+	color:#fff;
+}
+
+.logo {
+	font-family:Monoton;
+}
+
+
+.raleway {
+	font-family: 'Raleway';
+}
+
+.monoton {
+	font-family: 'Monoton';
+}
+
+
+.gap {
+	margin:5%;
+}
+
+.post-head {
+	font-family: 'Sedgwick Ave Display';
+	display:block;
+}
+
+form {
+	background-color:#fff;
+	padding:20px;
+}
+
+.post {
+	background-color:#d6eaf8;
+	margin:2% 0;
+	padding:5%;
+	border-radius:15px;
+	font-size:1.2em;
+}
+
+.username {
+	font-size:1.2em;
+	letter-spacing:1.5px;
+	font-family:'Sofia';
+}
+
+.post-body {
+	letter-spacing:0.5px;
+}
+
+h2.greeting {
+	font-family:'Sedgwick Ave Display';
+	font-size:2.5em;
+	background-color:#fff;
+	color:#666;
+	margin:3% 0;
+}
+
+h3{
+	text-align:center;
+}
+label {
+	font-family:1.2em;
+}
+
+footer {
+	background-color:#3498d8;
+	color:#fff;
+	padding:2%;
+	clear:both;
+	font-size:1.4em;
+	margin-top:4%;
+	letter-spacing:0.8px;
+}
